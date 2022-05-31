@@ -52,7 +52,7 @@ public class Utility {
 		//code to convert double to string
 		data = Double.toString(value);
 		}
-		//return data;
+		return data;
 	}}
 
 
